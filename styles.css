@@ -100,7 +100,6 @@ body {
 
 @media (max-width: 800px) {
     .container {
-        height: 330px;
-        width: 330px;
+        margin: 5rem;
     }
 }
